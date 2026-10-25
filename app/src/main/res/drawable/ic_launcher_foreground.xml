@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Mathelete: a gold "4" medal on a red-and-blue ribbon. Same shapes as the PNG icons and TV banner. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FF3A6FD8"
+        android:pathData="M60,26 L70,26 L57,54 L48,50 Z" />
+    <path
+        android:fillColor="#FFD64545"
+        android:pathData="M38,26 L48,26 L60,50 L51,54 Z" />
+    <path
+        android:fillColor="#FFC9901E"
+        android:pathData="M35,62 a19,19 0 1,0 38,0 a19,19 0 1,0 -38,0 Z" />
+    <path
+        android:fillColor="#FFF5C542"
+        android:pathData="M38.5,62 a15.5,15.5 0 1,0 31,0 a15.5,15.5 0 1,0 -31,0 Z" />
+    <path
+        android:fillColor="#FF6B4508"
+        android:fillType="evenOdd"
+        android:pathData="M55,52 L59.5,52 L59.5,64 L63,64 L63,67.5 L59.5,67.5 L59.5,72 L55,72 L55,67.5 L45,67.5 L45,64 Z M55,58 L55,64 L50,64 Z" />
+</vector>

@@ -1,0 +1,14 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.kotlin/
+
+# Signing keys stay out of the repo; the contest PDFs stay in the private repo.
+*.jks
+*.keystore
+*.p12
+reference/
